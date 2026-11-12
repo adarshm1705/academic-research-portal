@@ -158,3 +158,4 @@ $$ LANGUAGE plpgsql;
 
 **Q4: How did team members divide responsibilities on this project?**  
 > *"Adarsh Shivanand Madli led the core database architecture, DDL/DML scripts, PL/pgSQL triggers, and pgvector cosine search integration. Aakarsh led the Next.js API route integration, NoSQL JSONB rubric schema, frontend dashboard, and query execution console. Both members contributed to Git commits and database testing."*
+
